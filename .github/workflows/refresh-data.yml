@@ -1,0 +1,50 @@
+name: Refresh fixture predictions
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # every day at 06:00 UTC
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install numpy scipy pandas requests
+
+      - name: Compute current season year
+        id: season
+        run: |
+          python -c "
+          import datetime
+          d = datetime.date.today()
+          print('year=' + str(d.year if d.month >= 7 else d.year - 1))
+          " >> "$GITHUB_OUTPUT"
+
+      - name: Fetch historical results + xG (Understat)
+        run: python fetch_understat.py EPL ${{ steps.season.outputs.year }} --out matches.csv
+
+      - name: Fetch upcoming fixtures (football-data.org)
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: python fixtures_api.py PL --days 200 --out fixtures.json
+
+      - name: Build site data
+        run: python build_site_data.py matches.csv fixtures.json --out site/data.json --half-life 200
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add matches.csv fixtures.json site/data.json
+          git diff --staged --quiet || git commit -m "Refresh fixture predictions"
+          git push
