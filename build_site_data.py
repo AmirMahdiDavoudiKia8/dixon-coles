@@ -1,11 +1,11 @@
 """
-Build site/data.json: fit Dixon-Coles on historical results, predict every
+Build docs/data.json: fit Dixon-Coles on historical results, predict every
 upcoming fixture, and write everything the interactive site needs (score
 matrix, fair odds, top scorelines). No market odds here — the site takes
 those as user input and does the blend/EV/Kelly math client-side.
 
 Usage:
-    python build_site_data.py matches.csv fixtures.json --out site/data.json
+    python build_site_data.py matches.csv fixtures.json --out docs/data.json
 """
 
 import argparse
@@ -54,7 +54,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("data", help="CSV of historical matches (from fetch_understat.py)")
     ap.add_argument("fixtures", help="JSON of upcoming fixtures (from fixtures_api.py)")
-    ap.add_argument("--out", default="site/data.json")
+    ap.add_argument("--out", default="docs/data.json")
     ap.add_argument("--xg-weight", type=float, default=0.7)
     ap.add_argument("--half-life", type=float, default=365.0)
     args = ap.parse_args()
