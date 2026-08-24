@@ -1,38 +1,5 @@
 [
   {
-    "id": 560548,
-    "date": "2026-08-23",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 1,
-    "home": "Manchester City FC",
-    "away": "AFC Bournemouth",
-    "home_crest": "https://crests.football-data.org/65.png",
-    "away_crest": "https://crests.football-data.org/bournemouth.png"
-  },
-  {
-    "id": 560549,
-    "date": "2026-08-23",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 1,
-    "home": "Brighton & Hove Albion FC",
-    "away": "Aston Villa FC",
-    "home_crest": "https://crests.football-data.org/397.png",
-    "away_crest": "https://crests.football-data.org/58.png"
-  },
-  {
-    "id": 560550,
-    "date": "2026-08-23",
-    "time": "15:30",
-    "competition": "Premier League",
-    "matchday": 1,
-    "home": "Newcastle United FC",
-    "away": "Liverpool FC",
-    "home_crest": "https://crests.football-data.org/67.png",
-    "away_crest": "https://crests.football-data.org/64.png"
-  },
-  {
     "id": 560551,
     "date": "2026-08-24",
     "time": "19:00",
