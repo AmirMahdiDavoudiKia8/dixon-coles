@@ -1,27 +1,5 @@
 [
   {
-    "id": 560555,
-    "date": "2026-08-28",
-    "time": "19:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Crystal Palace FC",
-    "away": "Manchester City FC",
-    "home_crest": "https://crests.football-data.org/354.png",
-    "away_crest": "https://crests.football-data.org/65.png"
-  },
-  {
-    "id": 560552,
-    "date": "2026-08-29",
-    "time": "11:30",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Liverpool FC",
-    "away": "Nottingham Forest FC",
-    "home_crest": "https://crests.football-data.org/64.png",
-    "away_crest": "https://crests.football-data.org/351.png"
-  },
-  {
     "id": 560560,
     "date": "2026-08-29",
     "time": "14:00",
@@ -396,17 +374,6 @@
     "away_crest": "https://crests.football-data.org/322.png"
   },
   {
-    "id": 560590,
-    "date": "2026-09-19",
-    "time": "14:00",
-    "competition": "Premier League",
-    "matchday": 5,
-    "home": "Manchester City FC",
-    "away": "Sunderland AFC",
-    "home_crest": "https://crests.football-data.org/65.png",
-    "away_crest": "https://crests.football-data.org/71.png"
-  },
-  {
     "id": 560589,
     "date": "2026-09-19",
     "time": "16:30",
@@ -427,6 +394,17 @@
     "away": "Liverpool FC",
     "home_crest": "https://crests.football-data.org/bournemouth.png",
     "away_crest": "https://crests.football-data.org/64.png"
+  },
+  {
+    "id": 560590,
+    "date": "2026-09-20",
+    "time": "13:00",
+    "competition": "Premier League",
+    "matchday": 5,
+    "home": "Manchester City FC",
+    "away": "Sunderland AFC",
+    "home_crest": "https://crests.football-data.org/65.png",
+    "away_crest": "https://crests.football-data.org/71.png"
   },
   {
     "id": 560583,
