@@ -1,38 +1,5 @@
 [
   {
-    "id": 560560,
-    "date": "2026-08-29",
-    "time": "14:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "AFC Bournemouth",
-    "away": "Everton FC",
-    "home_crest": "https://crests.football-data.org/bournemouth.png",
-    "away_crest": "https://crests.football-data.org/62.png"
-  },
-  {
-    "id": 560561,
-    "date": "2026-08-29",
-    "time": "14:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Coventry City FC",
-    "away": "Hull City AFC",
-    "home_crest": "https://crests.football-data.org/1076.png",
-    "away_crest": "https://crests.football-data.org/322.png"
-  },
-  {
-    "id": 560558,
-    "date": "2026-08-29",
-    "time": "16:30",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Tottenham Hotspur FC",
-    "away": "Newcastle United FC",
-    "home_crest": "https://crests.football-data.org/73.png",
-    "away_crest": "https://crests.football-data.org/67.png"
-  },
-  {
     "id": 560554,
     "date": "2026-08-30",
     "time": "13:00",
