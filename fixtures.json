@@ -1,49 +1,5 @@
 [
   {
-    "id": 560554,
-    "date": "2026-08-30",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Sunderland AFC",
-    "away": "Fulham FC",
-    "home_crest": "https://crests.football-data.org/71.png",
-    "away_crest": "https://crests.football-data.org/63.png"
-  },
-  {
-    "id": 560556,
-    "date": "2026-08-30",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Chelsea FC",
-    "away": "Brighton & Hove Albion FC",
-    "home_crest": "https://crests.football-data.org/61.png",
-    "away_crest": "https://crests.football-data.org/397.png"
-  },
-  {
-    "id": 560559,
-    "date": "2026-08-30",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Leeds United FC",
-    "away": "Brentford FC",
-    "home_crest": "https://crests.football-data.org/341.png",
-    "away_crest": "https://crests.football-data.org/402.png"
-  },
-  {
-    "id": 560553,
-    "date": "2026-08-30",
-    "time": "15:30",
-    "competition": "Premier League",
-    "matchday": 2,
-    "home": "Manchester United FC",
-    "away": "Ipswich Town FC",
-    "home_crest": "https://crests.football-data.org/66.png",
-    "away_crest": "https://crests.football-data.org/349.png"
-  },
-  {
     "id": 560557,
     "date": "2026-08-31",
     "time": "19:00",
