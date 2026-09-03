@@ -297,6 +297,28 @@
     "away_crest": "https://crests.football-data.org/64.png"
   },
   {
+    "id": 560585,
+    "date": "2026-09-20",
+    "time": "13:00",
+    "competition": "Premier League",
+    "matchday": 5,
+    "home": "Leeds United FC",
+    "away": "Crystal Palace FC",
+    "home_crest": "https://crests.football-data.org/341.png",
+    "away_crest": "https://crests.football-data.org/354.png"
+  },
+  {
+    "id": 560590,
+    "date": "2026-09-20",
+    "time": "13:00",
+    "competition": "Premier League",
+    "matchday": 5,
+    "home": "Manchester City FC",
+    "away": "Sunderland AFC",
+    "home_crest": "https://crests.football-data.org/65.png",
+    "away_crest": "https://crests.football-data.org/71.png"
+  },
+  {
     "id": 560583,
     "date": "2026-09-20",
     "time": "15:30",
@@ -583,6 +605,17 @@
     "away_crest": "https://crests.football-data.org/73.png"
   },
   {
+    "id": 560612,
+    "date": "2026-10-25",
+    "time": "14:00",
+    "competition": "Premier League",
+    "matchday": 8,
+    "home": "Liverpool FC",
+    "away": "Brighton & Hove Albion FC",
+    "home_crest": "https://crests.football-data.org/64.png",
+    "away_crest": "https://crests.football-data.org/397.png"
+  },
+  {
     "id": 560613,
     "date": "2026-10-25",
     "time": "14:00",
@@ -702,6 +735,17 @@
     "away": "Crystal Palace FC",
     "home_crest": "https://crests.football-data.org/73.png",
     "away_crest": "https://crests.football-data.org/354.png"
+  },
+  {
+    "id": 560628,
+    "date": "2026-10-31",
+    "time": "20:00",
+    "competition": "Premier League",
+    "matchday": 9,
+    "home": "Aston Villa FC",
+    "away": "Fulham FC",
+    "home_crest": "https://crests.football-data.org/58.png",
+    "away_crest": "https://crests.football-data.org/63.png"
   },
   {
     "id": 560631,
