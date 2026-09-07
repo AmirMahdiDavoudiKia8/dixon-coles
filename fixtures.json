@@ -1,27 +1,5 @@
 [
   {
-    "id": 560567,
-    "date": "2026-09-06",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 3,
-    "home": "Everton FC",
-    "away": "Manchester United FC",
-    "home_crest": "https://crests.football-data.org/62.png",
-    "away_crest": "https://crests.football-data.org/66.png"
-  },
-  {
-    "id": 560570,
-    "date": "2026-09-06",
-    "time": "15:30",
-    "competition": "Premier League",
-    "matchday": 3,
-    "home": "Arsenal FC",
-    "away": "Chelsea FC",
-    "home_crest": "https://crests.football-data.org/57.png",
-    "away_crest": "https://crests.football-data.org/61.png"
-  },
-  {
     "id": 560572,
     "date": "2026-09-12",
     "time": "14:00",
