@@ -1432,35 +1432,13 @@
   {
     "id": 560702,
     "date": "2026-12-26",
-    "time": "15:00",
+    "time": "12:30",
     "competition": "Premier League",
     "matchday": 17,
     "home": "Aston Villa FC",
     "away": "Leeds United FC",
     "home_crest": "https://crests.football-data.org/58.png",
     "away_crest": "https://crests.football-data.org/341.png"
-  },
-  {
-    "id": 560703,
-    "date": "2026-12-26",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 17,
-    "home": "Manchester United FC",
-    "away": "Nottingham Forest FC",
-    "home_crest": "https://crests.football-data.org/66.png",
-    "away_crest": "https://crests.football-data.org/351.png"
-  },
-  {
-    "id": 560704,
-    "date": "2026-12-26",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 17,
-    "home": "Crystal Palace FC",
-    "away": "Arsenal FC",
-    "home_crest": "https://crests.football-data.org/354.png",
-    "away_crest": "https://crests.football-data.org/57.png"
   },
   {
     "id": 560705,
@@ -1472,28 +1450,6 @@
     "away": "Sunderland AFC",
     "home_crest": "https://crests.football-data.org/62.png",
     "away_crest": "https://crests.football-data.org/71.png"
-  },
-  {
-    "id": 560706,
-    "date": "2026-12-26",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 17,
-    "home": "Coventry City FC",
-    "away": "Chelsea FC",
-    "home_crest": "https://crests.football-data.org/1076.png",
-    "away_crest": "https://crests.football-data.org/61.png"
-  },
-  {
-    "id": 560707,
-    "date": "2026-12-26",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 17,
-    "home": "Newcastle United FC",
-    "away": "Manchester City FC",
-    "home_crest": "https://crests.football-data.org/67.png",
-    "away_crest": "https://crests.football-data.org/65.png"
   },
   {
     "id": 560708,
@@ -1518,17 +1474,6 @@
     "away_crest": "https://crests.football-data.org/bournemouth.png"
   },
   {
-    "id": 560710,
-    "date": "2026-12-26",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 17,
-    "home": "Hull City AFC",
-    "away": "Liverpool FC",
-    "home_crest": "https://crests.football-data.org/322.png",
-    "away_crest": "https://crests.football-data.org/64.png"
-  },
-  {
     "id": 560711,
     "date": "2026-12-26",
     "time": "15:00",
@@ -1540,9 +1485,97 @@
     "away_crest": "https://crests.football-data.org/402.png"
   },
   {
+    "id": 560710,
+    "date": "2026-12-26",
+    "time": "17:30",
+    "competition": "Premier League",
+    "matchday": 17,
+    "home": "Hull City AFC",
+    "away": "Liverpool FC",
+    "home_crest": "https://crests.football-data.org/322.png",
+    "away_crest": "https://crests.football-data.org/64.png"
+  },
+  {
+    "id": 560707,
+    "date": "2026-12-26",
+    "time": "20:00",
+    "competition": "Premier League",
+    "matchday": 17,
+    "home": "Newcastle United FC",
+    "away": "Manchester City FC",
+    "home_crest": "https://crests.football-data.org/67.png",
+    "away_crest": "https://crests.football-data.org/65.png"
+  },
+  {
+    "id": 560706,
+    "date": "2026-12-27",
+    "time": "14:00",
+    "competition": "Premier League",
+    "matchday": 17,
+    "home": "Coventry City FC",
+    "away": "Chelsea FC",
+    "home_crest": "https://crests.football-data.org/1076.png",
+    "away_crest": "https://crests.football-data.org/61.png"
+  },
+  {
+    "id": 560703,
+    "date": "2026-12-27",
+    "time": "16:30",
+    "competition": "Premier League",
+    "matchday": 17,
+    "home": "Manchester United FC",
+    "away": "Nottingham Forest FC",
+    "home_crest": "https://crests.football-data.org/66.png",
+    "away_crest": "https://crests.football-data.org/351.png"
+  },
+  {
+    "id": 560704,
+    "date": "2026-12-27",
+    "time": "19:00",
+    "competition": "Premier League",
+    "matchday": 17,
+    "home": "Crystal Palace FC",
+    "away": "Arsenal FC",
+    "home_crest": "https://crests.football-data.org/354.png",
+    "away_crest": "https://crests.football-data.org/57.png"
+  },
+  {
+    "id": 560716,
+    "date": "2026-12-29",
+    "time": "19:30",
+    "competition": "Premier League",
+    "matchday": 18,
+    "home": "Hull City AFC",
+    "away": "Leeds United FC",
+    "home_crest": "https://crests.football-data.org/322.png",
+    "away_crest": "https://crests.football-data.org/341.png"
+  },
+  {
+    "id": 560719,
+    "date": "2026-12-29",
+    "time": "19:30",
+    "competition": "Premier League",
+    "matchday": 18,
+    "home": "Tottenham Hotspur FC",
+    "away": "Brighton & Hove Albion FC",
+    "home_crest": "https://crests.football-data.org/73.png",
+    "away_crest": "https://crests.football-data.org/397.png"
+  },
+  {
+    "id": 560720,
+    "date": "2026-12-29",
+    "time": "20:15",
+    "competition": "Premier League",
+    "matchday": 18,
+    "home": "Everton FC",
+    "away": "Manchester City FC",
+    "home_crest": "https://crests.football-data.org/62.png",
+    "away_crest": "https://crests.football-data.org/65.png"
+  },
+  {
     "id": 560712,
     "date": "2026-12-30",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 18,
     "home": "Fulham FC",
@@ -1553,7 +1586,7 @@
   {
     "id": 560713,
     "date": "2026-12-30",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 18,
     "home": "Coventry City FC",
@@ -1562,20 +1595,9 @@
     "away_crest": "https://crests.football-data.org/402.png"
   },
   {
-    "id": 560714,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 18,
-    "home": "Aston Villa FC",
-    "away": "Liverpool FC",
-    "home_crest": "https://crests.football-data.org/58.png",
-    "away_crest": "https://crests.football-data.org/64.png"
-  },
-  {
     "id": 560715,
     "date": "2026-12-30",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 18,
     "home": "Newcastle United FC",
@@ -1584,20 +1606,9 @@
     "away_crest": "https://crests.football-data.org/351.png"
   },
   {
-    "id": 560716,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 18,
-    "home": "Hull City AFC",
-    "away": "Leeds United FC",
-    "home_crest": "https://crests.football-data.org/322.png",
-    "away_crest": "https://crests.football-data.org/341.png"
-  },
-  {
     "id": 560717,
     "date": "2026-12-30",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 18,
     "home": "Manchester United FC",
@@ -1606,42 +1617,9 @@
     "away_crest": "https://crests.football-data.org/71.png"
   },
   {
-    "id": 560718,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 18,
-    "home": "Ipswich Town FC",
-    "away": "Chelsea FC",
-    "home_crest": "https://crests.football-data.org/349.png",
-    "away_crest": "https://crests.football-data.org/61.png"
-  },
-  {
-    "id": 560719,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 18,
-    "home": "Tottenham Hotspur FC",
-    "away": "Brighton & Hove Albion FC",
-    "home_crest": "https://crests.football-data.org/73.png",
-    "away_crest": "https://crests.football-data.org/397.png"
-  },
-  {
-    "id": 560720,
-    "date": "2026-12-30",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 18,
-    "home": "Everton FC",
-    "away": "Manchester City FC",
-    "home_crest": "https://crests.football-data.org/62.png",
-    "away_crest": "https://crests.football-data.org/65.png"
-  },
-  {
     "id": 560721,
     "date": "2026-12-30",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 18,
     "home": "Crystal Palace FC",
@@ -1650,15 +1628,48 @@
     "away_crest": "https://crests.football-data.org/bournemouth.png"
   },
   {
-    "id": 560722,
-    "date": "2027-01-02",
-    "time": "15:00",
+    "id": 560714,
+    "date": "2026-12-30",
+    "time": "20:15",
+    "competition": "Premier League",
+    "matchday": 18,
+    "home": "Aston Villa FC",
+    "away": "Liverpool FC",
+    "home_crest": "https://crests.football-data.org/58.png",
+    "away_crest": "https://crests.football-data.org/64.png"
+  },
+  {
+    "id": 560718,
+    "date": "2026-12-30",
+    "time": "20:15",
+    "competition": "Premier League",
+    "matchday": 18,
+    "home": "Ipswich Town FC",
+    "away": "Chelsea FC",
+    "home_crest": "https://crests.football-data.org/349.png",
+    "away_crest": "https://crests.football-data.org/61.png"
+  },
+  {
+    "id": 560724,
+    "date": "2027-01-01",
+    "time": "20:00",
     "competition": "Premier League",
     "matchday": 19,
-    "home": "AFC Bournemouth",
-    "away": "Aston Villa FC",
-    "home_crest": "https://crests.football-data.org/bournemouth.png",
-    "away_crest": "https://crests.football-data.org/58.png"
+    "home": "Leeds United FC",
+    "away": "Everton FC",
+    "home_crest": "https://crests.football-data.org/341.png",
+    "away_crest": "https://crests.football-data.org/62.png"
+  },
+  {
+    "id": 560730,
+    "date": "2027-01-02",
+    "time": "12:30",
+    "competition": "Premier League",
+    "matchday": 19,
+    "home": "Brighton & Hove Albion FC",
+    "away": "Manchester United FC",
+    "home_crest": "https://crests.football-data.org/397.png",
+    "away_crest": "https://crests.football-data.org/66.png"
   },
   {
     "id": 560723,
@@ -1670,17 +1681,6 @@
     "away": "Crystal Palace FC",
     "home_crest": "https://crests.football-data.org/402.png",
     "away_crest": "https://crests.football-data.org/354.png"
-  },
-  {
-    "id": 560724,
-    "date": "2027-01-02",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 19,
-    "home": "Leeds United FC",
-    "away": "Everton FC",
-    "home_crest": "https://crests.football-data.org/341.png",
-    "away_crest": "https://crests.football-data.org/62.png"
   },
   {
     "id": 560725,
@@ -1716,17 +1716,6 @@
     "away_crest": "https://crests.football-data.org/1076.png"
   },
   {
-    "id": 560728,
-    "date": "2027-01-02",
-    "time": "15:00",
-    "competition": "Premier League",
-    "matchday": 19,
-    "home": "Chelsea FC",
-    "away": "Newcastle United FC",
-    "home_crest": "https://crests.football-data.org/61.png",
-    "away_crest": "https://crests.football-data.org/67.png"
-  },
-  {
     "id": 560729,
     "date": "2027-01-02",
     "time": "15:00",
@@ -1738,20 +1727,31 @@
     "away_crest": "https://crests.football-data.org/63.png"
   },
   {
-    "id": 560730,
+    "id": 560722,
     "date": "2027-01-02",
-    "time": "15:00",
+    "time": "17:30",
     "competition": "Premier League",
     "matchday": 19,
-    "home": "Brighton & Hove Albion FC",
-    "away": "Manchester United FC",
-    "home_crest": "https://crests.football-data.org/397.png",
-    "away_crest": "https://crests.football-data.org/66.png"
+    "home": "AFC Bournemouth",
+    "away": "Aston Villa FC",
+    "home_crest": "https://crests.football-data.org/bournemouth.png",
+    "away_crest": "https://crests.football-data.org/58.png"
+  },
+  {
+    "id": 560728,
+    "date": "2027-01-03",
+    "time": "14:00",
+    "competition": "Premier League",
+    "matchday": 19,
+    "home": "Chelsea FC",
+    "away": "Newcastle United FC",
+    "home_crest": "https://crests.football-data.org/61.png",
+    "away_crest": "https://crests.football-data.org/67.png"
   },
   {
     "id": 560731,
-    "date": "2027-01-02",
-    "time": "15:00",
+    "date": "2027-01-03",
+    "time": "16:30",
     "competition": "Premier League",
     "matchday": 19,
     "home": "Manchester City FC",
@@ -1761,8 +1761,8 @@
   },
   {
     "id": 560732,
-    "date": "2027-01-06",
-    "time": "20:00",
+    "date": "2027-01-05",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Arsenal FC",
@@ -1771,31 +1771,9 @@
     "away_crest": "https://crests.football-data.org/402.png"
   },
   {
-    "id": 560733,
-    "date": "2027-01-06",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 20,
-    "home": "Leeds United FC",
-    "away": "Manchester City FC",
-    "home_crest": "https://crests.football-data.org/341.png",
-    "away_crest": "https://crests.football-data.org/65.png"
-  },
-  {
-    "id": 560734,
-    "date": "2027-01-06",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 20,
-    "home": "Manchester United FC",
-    "away": "Newcastle United FC",
-    "home_crest": "https://crests.football-data.org/66.png",
-    "away_crest": "https://crests.football-data.org/67.png"
-  },
-  {
     "id": 560735,
-    "date": "2027-01-06",
-    "time": "20:00",
+    "date": "2027-01-05",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Brighton & Hove Albion FC",
@@ -1805,8 +1783,8 @@
   },
   {
     "id": 560736,
-    "date": "2027-01-06",
-    "time": "20:00",
+    "date": "2027-01-05",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Nottingham Forest FC",
@@ -1815,20 +1793,9 @@
     "away_crest": "https://crests.football-data.org/322.png"
   },
   {
-    "id": 560737,
-    "date": "2027-01-06",
-    "time": "20:00",
-    "competition": "Premier League",
-    "matchday": 20,
-    "home": "Fulham FC",
-    "away": "Tottenham Hotspur FC",
-    "home_crest": "https://crests.football-data.org/63.png",
-    "away_crest": "https://crests.football-data.org/73.png"
-  },
-  {
     "id": 560738,
-    "date": "2027-01-06",
-    "time": "20:00",
+    "date": "2027-01-05",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Everton FC",
@@ -1838,8 +1805,8 @@
   },
   {
     "id": 560739,
-    "date": "2027-01-06",
-    "time": "20:00",
+    "date": "2027-01-05",
+    "time": "20:15",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Sunderland AFC",
@@ -1848,9 +1815,20 @@
     "away_crest": "https://crests.football-data.org/64.png"
   },
   {
+    "id": 560737,
+    "date": "2027-01-06",
+    "time": "19:30",
+    "competition": "Premier League",
+    "matchday": 20,
+    "home": "Fulham FC",
+    "away": "Tottenham Hotspur FC",
+    "home_crest": "https://crests.football-data.org/63.png",
+    "away_crest": "https://crests.football-data.org/73.png"
+  },
+  {
     "id": 560740,
     "date": "2027-01-06",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Crystal Palace FC",
@@ -1861,13 +1839,35 @@
   {
     "id": 560741,
     "date": "2027-01-06",
-    "time": "20:00",
+    "time": "19:30",
     "competition": "Premier League",
     "matchday": 20,
     "home": "Ipswich Town FC",
     "away": "Coventry City FC",
     "home_crest": "https://crests.football-data.org/349.png",
     "away_crest": "https://crests.football-data.org/1076.png"
+  },
+  {
+    "id": 560733,
+    "date": "2027-01-06",
+    "time": "20:15",
+    "competition": "Premier League",
+    "matchday": 20,
+    "home": "Leeds United FC",
+    "away": "Manchester City FC",
+    "home_crest": "https://crests.football-data.org/341.png",
+    "away_crest": "https://crests.football-data.org/65.png"
+  },
+  {
+    "id": 560734,
+    "date": "2027-01-07",
+    "time": "20:00",
+    "competition": "Premier League",
+    "matchday": 20,
+    "home": "Manchester United FC",
+    "away": "Newcastle United FC",
+    "home_crest": "https://crests.football-data.org/66.png",
+    "away_crest": "https://crests.football-data.org/67.png"
   },
   {
     "id": 560742,
