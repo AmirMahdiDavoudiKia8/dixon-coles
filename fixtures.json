@@ -1,27 +1,5 @@
 [
   {
-    "id": 560578,
-    "date": "2026-09-13",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 4,
-    "home": "Coventry City FC",
-    "away": "Brighton & Hove Albion FC",
-    "home_crest": "https://crests.football-data.org/1076.png",
-    "away_crest": "https://crests.football-data.org/397.png"
-  },
-  {
-    "id": 560580,
-    "date": "2026-09-13",
-    "time": "15:30",
-    "competition": "Premier League",
-    "matchday": 4,
-    "home": "Manchester United FC",
-    "away": "Manchester City FC",
-    "home_crest": "https://crests.football-data.org/66.png",
-    "away_crest": "https://crests.football-data.org/65.png"
-  },
-  {
     "id": 560579,
     "date": "2026-09-14",
     "time": "19:00",
