@@ -1,16 +1,5 @@
 [
   {
-    "id": 560579,
-    "date": "2026-09-14",
-    "time": "19:00",
-    "competition": "Premier League",
-    "matchday": 4,
-    "home": "Leeds United FC",
-    "away": "Newcastle United FC",
-    "home_crest": "https://crests.football-data.org/341.png",
-    "away_crest": "https://crests.football-data.org/67.png"
-  },
-  {
     "id": 560591,
     "date": "2026-09-18",
     "time": "19:00",
