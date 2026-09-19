@@ -1,16 +1,5 @@
 [
   {
-    "id": 560591,
-    "date": "2026-09-18",
-    "time": "19:00",
-    "competition": "Premier League",
-    "matchday": 5,
-    "home": "Brentford FC",
-    "away": "Chelsea FC",
-    "home_crest": "https://crests.football-data.org/402.png",
-    "away_crest": "https://crests.football-data.org/61.png"
-  },
-  {
     "id": 560587,
     "date": "2026-09-19",
     "time": "11:30",
