@@ -1,16 +1,5 @@
 [
   {
-    "id": 560593,
-    "date": "2026-10-10",
-    "time": "11:30",
-    "competition": "Premier League",
-    "matchday": 6,
-    "home": "Arsenal FC",
-    "away": "Leeds United FC",
-    "home_crest": "https://crests.football-data.org/57.png",
-    "away_crest": "https://crests.football-data.org/341.png"
-  },
-  {
     "id": 560592,
     "date": "2026-10-10",
     "time": "14:00",
