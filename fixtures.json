@@ -1,49 +1,5 @@
 [
   {
-    "id": 560604,
-    "date": "2026-10-18",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 7,
-    "home": "AFC Bournemouth",
-    "away": "Sunderland AFC",
-    "home_crest": "https://crests.football-data.org/bournemouth.png",
-    "away_crest": "https://crests.football-data.org/71.png"
-  },
-  {
-    "id": 560605,
-    "date": "2026-10-18",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 7,
-    "home": "Leeds United FC",
-    "away": "Manchester United FC",
-    "home_crest": "https://crests.football-data.org/341.png",
-    "away_crest": "https://crests.football-data.org/66.png"
-  },
-  {
-    "id": 560609,
-    "date": "2026-10-18",
-    "time": "13:00",
-    "competition": "Premier League",
-    "matchday": 7,
-    "home": "Brighton & Hove Albion FC",
-    "away": "Crystal Palace FC",
-    "home_crest": "https://crests.football-data.org/397.png",
-    "away_crest": "https://crests.football-data.org/354.png"
-  },
-  {
-    "id": 560608,
-    "date": "2026-10-18",
-    "time": "15:30",
-    "competition": "Premier League",
-    "matchday": 7,
-    "home": "Nottingham Forest FC",
-    "away": "Arsenal FC",
-    "home_crest": "https://crests.football-data.org/351.png",
-    "away_crest": "https://crests.football-data.org/57.png"
-  },
-  {
     "id": 560606,
     "date": "2026-10-19",
     "time": "19:00",
