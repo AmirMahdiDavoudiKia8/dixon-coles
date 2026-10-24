@@ -1,16 +1,5 @@
 [
   {
-    "id": 560620,
-    "date": "2026-10-23",
-    "time": "19:00",
-    "competition": "Premier League",
-    "matchday": 8,
-    "home": "Ipswich Town FC",
-    "away": "Nottingham Forest FC",
-    "home_crest": "https://crests.football-data.org/349.png",
-    "away_crest": "https://crests.football-data.org/351.png"
-  },
-  {
     "id": 560614,
     "date": "2026-10-24",
     "time": "11:30",
